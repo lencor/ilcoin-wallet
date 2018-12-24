@@ -33,4 +33,3 @@ This product of Ilgamos is backed by excellent customer support.
 
 Always make sure you backup your wallet's password and recovery phrase!
 
-All Rights Reserved. Ilgamos International 2017©
