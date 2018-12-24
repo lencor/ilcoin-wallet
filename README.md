@@ -1,5 +1,5 @@
-# ilcoin-web
-ILCOIN website
+# ilcoin
+ILCOIN 
 
 Have access to your ILCoin no matter where you are with the most advanced ILCoin application! Developed to be used by anyone wishing to trade ILCoin using their Android mobile device. Receive and send ILCoin quickly and easily using the built-in QR Code Scanner. This wallet is built with a wealth of premium features for convenience and security. Read more below for a list of this wallet's capabilities!
 
