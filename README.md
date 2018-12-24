@@ -33,3 +33,4 @@ This product of Ilgamos is backed by excellent customer support.
 
 Always make sure you backup your wallet's password and recovery phrase!
 
+original link: https://ilcoincrypto.com/#/downloads 
